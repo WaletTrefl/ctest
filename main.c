@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+int add(int i , int b)
+{
+    return i + b;
+}
+
+
 int main(int args, char* argv[])
 {
     printf("Kamil psysa\n");
@@ -8,5 +14,7 @@ int main(int args, char* argv[])
     //komentaz
 
     float a0 =9.7f;
+
+
 return 0;
 }
