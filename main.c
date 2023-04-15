@@ -4,7 +4,7 @@ int main(int args, char* argv[])
 {
     printf("Kamil psysa\n");
 
-    int i =7, gop =9;
+    double i =7;
     //komentaz
 
     float a0 =9.7f;
