@@ -8,3 +8,9 @@ int main(int args, char* argv[])
     //komentaz
 return 0;
 }
+
+
+float Multiply(float a, float b)
+{
+    return a * b;
+}
