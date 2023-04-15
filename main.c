@@ -6,6 +6,8 @@ int main(int args, char* argv[])
 
     double i =7;
     //komentaz
+
+    float a0 =9.7f;
 return 0;
 }
 
